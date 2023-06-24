@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id/>
+        <report_id display_value="">74b0d062c3a321102cde753ce0013150</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>amarjit.ram</sys_created_by>
+        <sys_created_on>2023-06-23 07:22:54</sys_created_on>
+        <sys_id>f0b054e2c3a321102cde753ce00131e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>74b0d062c3a321102cde753ce0013150</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_report_users_groups_f0b054e2c3a321102cde753ce00131e8</sys_update_name>
+        <sys_updated_by>amarjit.ram</sys_updated_by>
+        <sys_updated_on>2023-06-23 07:22:54</sys_updated_on>
+        <user_id display_value="Amarjit Ram">f47e52d5c39321102cde753ce0013143</user_id>
+    </sys_report_users_groups>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>986f03d3db7001105749cac5059619be</instance_id>
+        <instance_name>dev120376</instance_name>
+        <name>sys_report_users_groups_f0b054e2c3a321102cde753ce00131e8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">74b0d062c3a321102cde753ce0013150</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>amarjit.ram</sys_created_by><sys_created_on>2023-06-23 07:22:54</sys_created_on><sys_id>f0b054e2c3a321102cde753ce00131e8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>74b0d062c3a321102cde753ce0013150</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_report_users_groups_f0b054e2c3a321102cde753ce00131e8</sys_update_name><sys_updated_by>amarjit.ram</sys_updated_by><sys_updated_on>2023-06-23 07:22:54</sys_updated_on><user_id display_value="Amarjit Ram">f47e52d5c39321102cde753ce0013143</user_id></sys_report_users_groups></record_update>]]></payload>
+        <payload_hash>607143546</payload_hash>
+        <record_name>74b0d062c3a321102cde753ce0013150</record_name>
+        <reverted_from/>
+        <source>9a2f099ac32f61102cde753ce00131bd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>amarjit.ram</sys_created_by>
+        <sys_created_on>2023-06-23 07:22:54</sys_created_on>
+        <sys_id>bcb054e2c3a321102cde753ce00131e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>188e72271980000001</sys_recorded_at>
+        <sys_updated_by>amarjit.ram</sys_updated_by>
+        <sys_updated_on>2023-06-23 07:22:54</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>f4b054e262a321101b9d4ad2d66b44e9</update_guid>
+        <update_guid_history>f4b054e262a321101b9d4ad2d66b44e9:607143546</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>amarjit.ram</sys_created_by>
+        <sys_created_on>2023-06-23 07:30:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>0ee4c88f12664514add503f0ee51dea4</sys_id>
+        <sys_metadata>f0b054e2c3a321102cde753ce00131e8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>74b0d062c3a321102cde753ce0013150</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_f0b054e2c3a321102cde753ce00131e8</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_f0b054e2c3a321102cde753ce00131e8">bcb054e2c3a321102cde753ce00131e9</sys_update_version>
+        <sys_updated_by>amarjit.ram</sys_updated_by>
+        <sys_updated_on>2023-06-23 07:30:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
